@@ -1,7 +1,7 @@
 ### Name: SHYAM S
 ### Register No: 212223240156
-### Experiment 2
-### Date
+### Ex.No: 2
+### Date: 
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
